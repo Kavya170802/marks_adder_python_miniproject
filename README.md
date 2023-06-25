@@ -1,1 +1,1 @@
-# marks_adder_python_mp
+# marks_adder_python_miniproject
